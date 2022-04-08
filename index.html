@@ -22,32 +22,40 @@
               color:white;
               background-attachment: fixed;
             }
+            a, a:hover{
+              color:yellow;
+              text-decoration: none;
+            }
+            td{
+              padding: 10px;
+            }
             
             </style>
     </head>
 
 <body>
-  <nav class="navbar navbar-expand-sm navbar-dark" style="background:rgba(39, 39, 39, 0.7);">
+  <nav class="navbar navbar-expand-sm navbar-dark fixed-top" style="background:rgba(39, 39, 39, 0.7);">
     <a class="navbar-brand" href="./index.html">Home</a>
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="./projects.html">Projects</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="./ideas.html">Ideas</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="./philosophy.html">Philosophy</a>
-      </li>
-    </ul>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="./projects.html">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./ideas.html">Ideas</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./philosophy.html">Philosophy</a>
+        </li>    
+      </ul>
+    </div>  
   </nav>
-  <br>
+    <br>
       <div class="container-fluid" style="height: 100%;">
-        <div class="row">
-          <div class="col-md-3 offset-md-6" style="background: rgba(39, 39, 39, 0.7); height: fit-content;">
-          </div>
-        </div>
-        <div class="mr-auto ml-auto" style="border-radius:20px; padding: 20px; background: rgba(39, 39, 39, 0.3); color:white; margin-top: 17%; width: fit-content;">
+        <div class="ml-auto mr-auto" style="border-radius:20px; padding: 20px; background: rgba(39, 39, 39, 0.3); color:white; margin-top: 18%; width: fit-content;">
           <h1 class="text-center">
             Rajan Kumar
           </h1>
@@ -56,10 +64,8 @@
             Rajan is a software engineer & Enterprenuer. He is Founder of HackersFriend.
           </h4>
           <div>
-            <center>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Gurugram, India</p>
-          </center>
           <center>
+            <p style="margin-bottom: 1px;"><i class="fa fa-map-marker" aria-hidden="true"></i> Gurugram, India</p>
             <table style="font-size: 30px;">
                 <tr><td><i class="fa fa-linkedin-square" aria-hidden="true"></i></td><td><i class="fa fa-github-square" aria-hidden="true"></i></td> <td><i class="fa fa-youtube-square" aria-hidden="true"></i></i></td></tr>
             </table>
@@ -68,5 +74,65 @@
         </div>
       </div>
       <br>
+      <div class="container-fluid" style="height: auto; background-color: white; color: black;">
+        <div class="ml-auto mr-auto" style="background:white; color:black; width: fit-content; padding: 2px; padding-top: 3%;">
+        <h2>Latest Posts</h2>
+      </div>
+      <div style="color: black; border-radius: 20px; border-bottom: solid; border-color: whitesmoke; padding-bottom: 1px;">
+       <div class="row" style="background-color: white;">
+         <div class="col-md-4">
+          <img src="./images/rajan_5.jpg" alt="" style="width: fit-content; height: 300px; border-bottom-left-radius: 20px; border-top-right-radius: 20%;">
+         </div>
+         <div class="col-md-8">
+           <br>
+          <p>9-APR-2022</p>
+          <hr style="height:1px;border:none;color:black;background-color:black;">
+            <h3>Sample post</h3>
+            <hr style="height:1px;border:none;color:black;background-color:black;">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique saepe soluta ea, quaerat repellendus rerum suscipit quisquam aliquam atque, accusamus labore quod asperiores, praesentium provident accusantium iure sunt dolores voluptas!
+            </p>
+         </div>
+       </div>
+      </div>
+      <br>
+      <div style="color: black; border-radius: 20px; border-bottom: solid; border-color: whitesmoke; padding-bottom: 1px;">
+        <div class="row" style="background-color: white;">
+          <div class="col-md-8">
+            <br>
+           <p>9-APR-2022</p>
+           <hr style="height:1px;border:none;color:black;background-color:black;">
+             <h3>Sample post</h3>
+             <hr style="height:1px;border:none;color:black;background-color:black;">
+             <p>
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique saepe soluta ea, quaerat repellendus rerum suscipit quisquam aliquam atque, accusamus labore quod asperiores, praesentium provident accusantium iure sunt dolores voluptas!
+             </p>
+          </div>
+          <div class="col-md-4">
+            <img src="./images/rajan_3.jpg" alt="" style="width: fit-content; height: 300px; border-bottom-left-radius: 20px; border-top-right-radius: 20%;">
+           </div>
+        </div>
+       </div>
+       <br>
+       <div style="color: black; border-radius: 20px; border-bottom: solid; border-color: whitesmoke; padding-bottom: 1px;">
+        <div class="row" style="background-color: white;">
+          <div class="col-md-4">
+           <img src="./images/rajan_6.jpg" alt="" style="width: fit-content; height: 300px; border-bottom-left-radius: 20px; border-top-right-radius: 20%;">
+          </div>
+          <div class="col-md-8">
+            <br>
+           <p>9-APR-2022</p>
+           <hr style="height:1px;border:none;color:black;background-color:black;">
+             <h3>Sample post</h3>
+             <hr style="height:1px;border:none;color:black;background-color:black;">
+             <p>
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique saepe soluta ea, quaerat repellendus rerum suscipit quisquam aliquam atque, accusamus labore quod asperiores, praesentium provident accusantium iure sunt dolores voluptas!
+             </p>
+          </div>
+        </div>
+       </div>
+       <br>
+      </div>
+      
 </body>
 </html>
