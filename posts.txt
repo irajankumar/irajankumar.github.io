@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/7bece7ba8b1824c4.css",{"as":"style"}]
-0:["vZ2NoP7IGrRVGl33DzOV0",[[["",{"children":["posts",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7bece7ba8b1824c4.css","precedence":"next"}]],"$L4"]]]]
+0:["2cqhN52OM-v_A5LwzNkz6",[[["",{"children":["posts",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7bece7ba8b1824c4.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":7767,"chunks":["272:static/chunks/webpack-606d99d65c245982.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
 6:I{"id":7920,"chunks":["272:static/chunks/webpack-606d99d65c245982.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Home - Rajan Kumar | Founder of HackersFriend | IIM Kozhikode"}],["$","meta","2",{"name":"description","content":"Rajan's Blog"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","4",{"name":"next-size-adjust"}]]
