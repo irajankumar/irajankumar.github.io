@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/8de5682092adf16e.css",{"as":"style"}]
-0:["anAL1SIuV13EOVuDUL34r",[[["",{"children":["posts",{"children":[["slug","the-creativity-crisis","d"],{"children":["__PAGE__?{\"slug\":\"the-creativity-crisis\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8de5682092adf16e.css","precedence":"next"}]],"$L4"]]]]
+0:["XB1bSGRvwaFtmiXEtUYd8",[[["",{"children":["posts",{"children":[["slug","the-creativity-crisis","d"],{"children":["__PAGE__?{\"slug\":\"the-creativity-crisis\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8de5682092adf16e.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":7427,"chunks":["185:static/chunks/app/layout-9ff0006ec6290865.js"],"name":"","async":false}
 6:I{"id":7767,"chunks":["272:static/chunks/webpack-db17f71145def961.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 7:I{"id":7920,"chunks":["272:static/chunks/webpack-db17f71145def961.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
