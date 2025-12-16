@@ -1,10 +1,10 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/1f7ca3870f26588a.css",{"as":"style"}]
-0:["LGkXML44QP3EQ2eHlDVrE",[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1f7ca3870f26588a.css","precedence":"next"}]],"$L4"]]]]
+0:["fbikMSUwoQ69w2G_GKm11",[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1f7ca3870f26588a.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":7427,"chunks":["185:static/chunks/app/layout-71992b27a5f7e490.js"],"name":"","async":false}
 6:I{"id":7767,"chunks":["272:static/chunks/webpack-f10a29de9a0e7a7f.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 7:I{"id":7920,"chunks":["272:static/chunks/webpack-f10a29de9a0e7a7f.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-9:I{"id":6685,"chunks":["685:static/chunks/685-edc21162c6cecce4.js","301:static/chunks/app/about/page-cbce70656fc2b5c1.js"],"name":"","async":false}
+9:I{"id":6685,"chunks":["685:static/chunks/685-edc21162c6cecce4.js","301:static/chunks/app/about/page-93ec8e066ef567e7.js"],"name":"","async":false}
 a:I{"id":4047,"chunks":["185:static/chunks/app/layout-71992b27a5f7e490.js"],"name":"","async":false}
 b:I{"id":9296,"chunks":["185:static/chunks/app/layout-71992b27a5f7e490.js"],"name":"","async":false}
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"About - Rajan Kumar | Founder of HackersFriend | IIM Kozhikode"}],["$","meta","2",{"name":"description","content":"Blog posts by Rajan Kumar | Founder of HackersFriend | IIM Kozhikode"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.png"}],["$","meta","5",{"name":"next-size-adjust"}]]
