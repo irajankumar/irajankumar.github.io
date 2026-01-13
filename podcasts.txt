@@ -1,10 +1,10 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/7b795adfe727aa8c.css",{"as":"style"}]
-0:["kcVNOI_sJIf2ZYSTE_Gb6",[[["",{"children":["podcasts",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b795adfe727aa8c.css","precedence":"next"}]],"$L4"]]]]
+0:["NAfoCEdsC87jKH79Bfdtn",[[["",{"children":["podcasts",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7b795adfe727aa8c.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":7427,"chunks":["185:static/chunks/app/layout-c71ef4ffda083356.js"],"name":"","async":false}
 6:I{"id":7767,"chunks":["272:static/chunks/webpack-3b8ae5e4f7440de2.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 7:I{"id":7920,"chunks":["272:static/chunks/webpack-3b8ae5e4f7440de2.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-9:I{"id":6685,"chunks":["685:static/chunks/685-edc21162c6cecce4.js","450:static/chunks/app/podcasts/page-a9f84c1a00371d5b.js"],"name":"","async":false}
+9:I{"id":6685,"chunks":["685:static/chunks/685-edc21162c6cecce4.js","450:static/chunks/app/podcasts/page-b18680ace44940b7.js"],"name":"","async":false}
 a:I{"id":4047,"chunks":["185:static/chunks/app/layout-c71ef4ffda083356.js"],"name":"","async":false}
 b:I{"id":9296,"chunks":["185:static/chunks/app/layout-c71ef4ffda083356.js"],"name":"","async":false}
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Podcasts - Rajan Kumar | Founder of HackersFriend | IIM Kozhikode"}],["$","meta","2",{"name":"description","content":"Perosnal Finance Podcast by Rajan Kumar | Founder of HackersFriend | IIM Kozhikode"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.png"}],["$","meta","5",{"name":"next-size-adjust"}]]
