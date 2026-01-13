@@ -1,11 +1,11 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/96a13b0579d892b3.css",{"as":"style"}]
-0:["s2V3RTCnrrmbqLpI3gkb-",[[["",{"children":["personal-finance",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/96a13b0579d892b3.css","precedence":"next"}]],"$L4"]]]]
+0:["jgbqYNDRVt5u0gLzGWRiV",[[["",{"children":["personal-finance",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/96a13b0579d892b3.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":7427,"chunks":["185:static/chunks/app/layout-68b6d15361c89629.js"],"name":"","async":false}
 6:I{"id":7767,"chunks":["272:static/chunks/webpack-af760112cd4bba6f.js","971:static/chunks/fd9d1056-07a3c2ee1e80eb89.js","596:static/chunks/596-6d338651a068057d.js"],"name":"default","async":false}
 7:I{"id":7920,"chunks":["272:static/chunks/webpack-af760112cd4bba6f.js","971:static/chunks/fd9d1056-07a3c2ee1e80eb89.js","596:static/chunks/596-6d338651a068057d.js"],"name":"default","async":false}
-9:I{"id":6717,"chunks":["937:static/chunks/app/personal-finance/page-ce4f11e3315f459f.js"],"name":"","async":false}
-a:I{"id":9126,"chunks":["937:static/chunks/app/personal-finance/page-ce4f11e3315f459f.js"],"name":"","async":false}
+9:I{"id":6717,"chunks":["937:static/chunks/app/personal-finance/page-c8c823c5512f138d.js"],"name":"","async":false}
+a:I{"id":9126,"chunks":["937:static/chunks/app/personal-finance/page-c8c823c5512f138d.js"],"name":"","async":false}
 b:I{"id":4047,"chunks":["185:static/chunks/app/layout-68b6d15361c89629.js"],"name":"","async":false}
 c:I{"id":9296,"chunks":["185:static/chunks/app/layout-68b6d15361c89629.js"],"name":"","async":false}
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Personal Fiance for everyone - Rajan Kumar | Founder of HackersFriend | IIM Kozhikode"}],["$","meta","2",{"name":"description","content":"Perosnal Finance Podcast by Rajan Kumar | Founder of HackersFriend | IIM Kozhikode"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.png"}],["$","meta","5",{"name":"next-size-adjust"}]]
