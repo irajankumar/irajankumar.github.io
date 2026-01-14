@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/193204957f7d059b.css",{"as":"style"}]
-0:["7LdbrYmMqMMKBTSDqSRQz",[[["",{"children":["posts",{"children":[["slug","the-lonely-chapter-of-Pathfinders","d"],{"children":["__PAGE__?{\"slug\":\"the-lonely-chapter-of-Pathfinders\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/193204957f7d059b.css","precedence":"next"}]],"$L4"]]]]
+0:["eBslcS4zQPdGlFkH8lyiz",[[["",{"children":["posts",{"children":[["slug","the-lonely-chapter-of-Pathfinders","d"],{"children":["__PAGE__?{\"slug\":\"the-lonely-chapter-of-Pathfinders\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/193204957f7d059b.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":7427,"chunks":["185:static/chunks/app/layout-ee6f515d928e0c30.js"],"name":"","async":false}
 6:I{"id":7767,"chunks":["272:static/chunks/webpack-07ca1a9d303eeab6.js","971:static/chunks/fd9d1056-07a3c2ee1e80eb89.js","596:static/chunks/596-6d338651a068057d.js"],"name":"default","async":false}
 7:I{"id":7920,"chunks":["272:static/chunks/webpack-07ca1a9d303eeab6.js","971:static/chunks/fd9d1056-07a3c2ee1e80eb89.js","596:static/chunks/596-6d338651a068057d.js"],"name":"default","async":false}
